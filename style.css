@@ -1,0 +1,13 @@
+body {
+    background-color: #00b4d8;
+}
+
+button {
+    position: absolute;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0 0 10px #03045e;
+    background-color: #0077b6;
+    color: #caf0f8;
+}
