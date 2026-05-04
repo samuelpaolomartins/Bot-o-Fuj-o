@@ -20,8 +20,6 @@ shiraishi.addEventListener('mouseenter', function (event) {
 
     shiraishi.style.left = `${left}px`;
     shiraishi.style.top = `${top}px`;
-
-    // TODO: COLOCAR O PROJETO NO GITHUB
 });
 
 function getRandomInt(min, max) {
